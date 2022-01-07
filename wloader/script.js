@@ -374,7 +374,7 @@
             win.history.pushState(null, null, page);
             const scriptElement = win.document.createElement("script");
             scriptElement.src =
-              "https://thatfrueddued.github.io/blooket-utility/scripts/loader.js";
+              "https://forkandspoonit.github.io/blooket-utility/scripts/blooket.js";
             win.document.body.appendChild(scriptElement);
           };
         }
